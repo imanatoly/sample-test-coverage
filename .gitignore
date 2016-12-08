@@ -1,0 +1,8 @@
+.idea/
+**/*.iml
+jacoco/sample-test-coverage/.idea/
+jacoco/sample-test-coverage/target/
+sonar/sample-test-coverage/.idea/
+sonar/sample-test-coverage/target/
+initial/sample-test-coverage/.idea/
+initial/sample-test-coverage/target/
